@@ -8,10 +8,9 @@ import org.springframework.web.bind.annotation.CrossOrigin;
 
 @SpringBootApplication
 @MapperScan("com.yupi.usercenter.mapper")
-@CrossOrigin(origins = {"http://106.54.235.189:8080"} ,allowCredentials = "true" )
+@CrossOrigin(originPatterns= "http://106.54.235.189:8080", allowedHeaders = "true")
 public class UserCenterApplication {
     public static void main(String[] args) {
         SpringApplication.run(UserCenterApplication.class,args);
-
     }
 }
