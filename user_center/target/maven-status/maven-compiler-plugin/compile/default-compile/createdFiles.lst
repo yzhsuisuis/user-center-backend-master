@@ -1,0 +1,2 @@
+com\yupi\usercenter\exception\GlobalExceptionHandler.class
+com\yupi\usercenter\exception\BussinessException.class
