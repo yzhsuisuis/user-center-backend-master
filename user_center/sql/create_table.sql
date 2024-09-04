@@ -1,5 +1,5 @@
 create schema user_center;
-
+use user_center;
 create table user
 (
     id           bigint auto_increment
