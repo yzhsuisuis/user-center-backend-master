@@ -10,7 +10,7 @@
     </parent>
 
     <groupId>com.yupi</groupId>
-    <artifactId>user_center</artifactId>
+    <artifactId>user-center-backend-master</artifactId>
     <version>1.0-SNAPSHOT</version>
 
 
