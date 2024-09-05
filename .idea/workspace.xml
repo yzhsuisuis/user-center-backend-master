@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8fc8899-daad-4ea9-a21c-e73735b6d7d6" name="Changes" comment="重">
+    <list default="true" id="f8fc8899-daad-4ea9-a21c-e73735b6d7d6" name="Changes" comment="1233">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +100,7 @@
       <workItem from="1725537543824" duration="137000" />
       <workItem from="1725537699155" duration="1260000" />
       <workItem from="1725538999853" duration="2152000" />
-      <workItem from="1725541226619" duration="4081000" />
+      <workItem from="1725541226619" duration="4896000" />
     </task>
     <task id="LOCAL-00001" summary="1233">
       <created>1725537914841</created>
@@ -124,7 +123,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725544347806</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="123">
+      <created>1725548899994</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725548899994</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1233">
+      <created>1725549154603</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725549154603</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,10 +155,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1233" />
     <MESSAGE value="重构完过后,最终plus版" />
     <MESSAGE value="重构完过后,最终ultra版plus版" />
     <MESSAGE value="重" />
-    <option name="LAST_COMMIT_MESSAGE" value="重" />
+    <MESSAGE value="123" />
+    <MESSAGE value="1233" />
+    <option name="LAST_COMMIT_MESSAGE" value="1233" />
   </component>
 </project>
