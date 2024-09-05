@@ -242,6 +242,6 @@ public class InterceptorConfig implements WebMvcConfigurer {
 
    # 5.无域名上线版本
 
-   将这里的user-backend.yangbo666.site 改成 远程服务器ip+端口号,然后不需要再弄反向代理,剩下的步骤同上
+   将前端的GlobalRequest中的user-backend.yangbo666.site 改成 远程服务器ip+端口号,然后不需要再弄反向代理,剩下的步骤同上
 
-   ![image-20240905164237846](file://D:/jdk8/user_center_backend/README.assets/image-20240905164237846.png?lastModify=1725527011)
+   
