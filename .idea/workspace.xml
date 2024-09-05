@@ -5,36 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8fc8899-daad-4ea9-a21c-e73735b6d7d6" name="Changes" comment="重">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yupi/usercenter/UserCenterApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yupi/usercenter/UserCenterApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yupi/usercenter/common/BaseResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yupi/usercenter/common/BaseResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yupi/usercenter/common/ErrorCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yupi/usercenter/common/ErrorCode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yupi/usercenter/common/ResultUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yupi/usercenter/common/ResultUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yupi/usercenter/config/InterceptorConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yupi/usercenter/config/InterceptorConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yupi/usercenter/constant/UserConstant.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yupi/usercenter/constant/UserConstant.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yupi/usercenter/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yupi/usercenter/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yupi/usercenter/domain/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yupi/usercenter/domain/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yupi/usercenter/domain/request/UserLoginRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yupi/usercenter/domain/request/UserLoginRequest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yupi/usercenter/domain/request/UserRegisetRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yupi/usercenter/domain/request/UserRegisetRequest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yupi/usercenter/exception/BussinessException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yupi/usercenter/exception/BussinessException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yupi/usercenter/exception/GlobalExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yupi/usercenter/exception/GlobalExceptionHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yupi/usercenter/mapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yupi/usercenter/mapper/UserMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yupi/usercenter/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yupi/usercenter/service/UserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yupi/usercenter/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yupi/usercenter/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/generator/domain/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/generator/domain/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/generator/mapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/generator/mapper/UserMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/generator/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/generator/service/UserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/generator/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/generator/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.yupi.usercenter.service.UserServiceTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.yupi.usercenter.service.UserServiceTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.yupi.usercenter.service.UserServiceTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.yupi.usercenter.service.UserServiceTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/yupi/usercenter/service/UserServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/yupi/usercenter/service/UserServiceTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/user_center-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/user_center-1.0-SNAPSHOT.jar.original" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +101,7 @@
       <workItem from="1725537543824" duration="137000" />
       <workItem from="1725537699155" duration="1260000" />
       <workItem from="1725538999853" duration="2152000" />
-      <workItem from="1725541226619" duration="2937000" />
+      <workItem from="1725541226619" duration="4081000" />
     </task>
     <task id="LOCAL-00001" summary="1233">
       <created>1725537914841</created>
@@ -145,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725539129459</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="重">
+      <created>1725544347806</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725544347806</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
