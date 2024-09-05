@@ -179,3 +179,69 @@ public class InterceptorConfig implements WebMvcConfigurer {
 }
 ```
 
+
+
+# 4.域名上线版本
+
+2. 申请两个域名记录如下:
+
+   
+
+   ```bash
+   # 这两个记录会被当做
+   user.yangbo666.site 被用来访问前端
+   user-backend.yangbo66.site 被用来反向代理用哪个
+   ```
+
+   
+
+   ![image-20240905164430545](README.assets/image-20240905164430545.png)
+
+3. 前端内容做如下修改,然后打包上传到宝塔的文件下
+
+   ![image-20240905164237846](README.assets/image-20240905164237846.png)
+
+4. 创建前端网站,步骤如下,然后确定即可
+
+   ![image-20240905164944539](README.assets/image-20240905164944539.png)
+
+5. 创建后端Java网站(记住是Java),步骤如下
+
+   Package生成jar包,将jar包放到user-center包下面,(注意生产环境的配置文件是这样的)
+
+   ![image-20240905170345035](README.assets/image-20240905170345035.png)
+
+   ![image-20240905165136065](README.assets/image-20240905165136065.png)
+
+6. 然后检查一下,情况是否如下两张图所示(---这一步很重要一定要检查一下)
+
+   ![image-20240905165330754](README.assets/image-20240905165330754.png)
+
+![image-20240905165417506](README.assets/image-20240905165417506.png)
+
+1. 第6步创建反向Nginx代理,效果如下
+
+   ![image-20240905165730169](README.assets/image-20240905165730169.png)
+
+   步骤: 
+
+   添加PHP项目
+
+   ![image-20240905165849774](README.assets/image-20240905165849774.png)
+
+   然后点击新建的这个项目的设置 ,在设置的左边栏找到,反向代理,添加如下的反向代理
+
+   ```bash
+   http://127.0.0.1:8080
+   $host
+   ```
+
+   
+
+   ![](README.assets/image-20240905165841527.png)
+
+   # 5.无域名上线版本
+
+   将这里的user-backend.yangbo666.site 改成 远程服务器ip+端口号,然后不需要再弄反向代理,剩下的步骤同上
+
+   ![image-20240905164237846](file://D:/jdk8/user_center_backend/README.assets/image-20240905164237846.png?lastModify=1725527011)
